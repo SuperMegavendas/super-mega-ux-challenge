@@ -52,8 +52,8 @@ Você foi contratado para criar o design de um aplicativo de gestão de tarefas 
 
 ### Entregáveis
 
-- Wireframes de baixa fidelidade para as duas páginas.
-- Protótipos de alta fidelidade para as duas páginas, mostrando o design visual completo.
+- Wireframes de alta fidelidade para as duas páginas, mostrando o design visual completo.
+- (Opcional) Protótipos de alta fidelidade para as duas páginas.
 
 ### Próxima etapa (Entrevista):
 
